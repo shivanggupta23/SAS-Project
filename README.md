@@ -1,7 +1,7 @@
 # 📊 Employee Performance & Promotion Analytics System (SAS)
 
 <p align="center">
-  <img src="./screenshots/banner.png" alt="Employee Analytics Banner" width="100%">
+  <img src="./banner.png" alt="Employee Analytics Banner" width="100%">
 </p>
 
 ## 🚀 Project Overview
