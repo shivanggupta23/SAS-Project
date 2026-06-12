@@ -175,19 +175,24 @@ At-Risk Employee Identification Report
 
 ### Dataset Overview
 
-![Dataset Overview](./screenshots/dataset_overview.png)
+<img width="1020" height="842" alt="image" src="https://github.com/user-attachments/assets/f3ec012b-a6a4-4725-82c1-d6d2a8fcc386" />
+<img width="761" height="866" alt="image" src="https://github.com/user-attachments/assets/afe95ec2-0cd7-4ef4-8976-41d82ea3ee78" />
+
+
 
 ### Promotion Summary
 
-![Promotion Summary](./screenshots/promotion_summary.png)
+<img width="945" height="757" alt="image" src="https://github.com/user-attachments/assets/5bf27509-1a22-4804-b85c-25d4fad228f3" />
 
 ### Department-wise Analysis
 
-![Department Analysis](./screenshots/department_analysis.png)
+<img width="755" height="781" alt="image" src="https://github.com/user-attachments/assets/84658f30-190a-49d4-9498-cdd46fbc3f46" />
+
 
 ### Visualization Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+<img width="620" height="861" alt="image" src="https://github.com/user-attachments/assets/7b4a11b0-8500-4365-b7e2-f50a46c3ae6c" />
+
 
 ---
 
